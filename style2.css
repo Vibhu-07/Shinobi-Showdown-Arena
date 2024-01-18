@@ -135,6 +135,7 @@ h1 {
 
     .container{
         gap: 25px;
+        flex-direction: column;
     }
 
     .opt{
